@@ -27,7 +27,7 @@ class ViewController: UIViewController {
                 
                 var i = 2
                 
-                if number == 1 {
+                if number == 1 || number == 0 {
                     
                     prime = false
                     
